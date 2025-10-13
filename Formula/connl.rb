@@ -10,7 +10,7 @@ class Connl < Formula
   end
   on_linux do
     url "https://github.com/khajer/bindlocal-client/releases/download/v0.0.1/connl-0.0.1-linux.tar.gz"
-    sha256 "394cb338b9d6b9fd8abcd6399909aad396aad5177d5f88ab9f65922e692e794d"
+    sha256 "68fea148e91c8a4b585214f4f3628eca0b24988543da13c1426c4ca7d893cf29"
   end
 
 
