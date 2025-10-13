@@ -6,7 +6,7 @@ class Connl < Formula
 
   on_macos do
     url "https://github.com/khajer/bindlocal-client/releases/download/v0.0.1/connl-0.0.1-macos.tar.gz"
-    sha256 "ee82527ca72adb4b0b8facdc582e743a4a17d2a2dc380d49059d7a2bf45fdbe3"
+    sha256 "0133595f8d67d457a4c86063385eb0bde4320f95eb67e0d779add5a776ce9b4e"
   end
   on_linux do
     url "https://github.com/khajer/bindlocal-client/releases/download/v0.0.1/connl-0.0.1-linux.tar.gz"
