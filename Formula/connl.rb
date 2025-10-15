@@ -19,6 +19,6 @@ class Connl < Formula
   end
 
   test do
-    system "#{bin}/connl", "--version"
+    system "#{bin}/connl", "version"
   end
 end
