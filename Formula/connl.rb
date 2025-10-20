@@ -1,7 +1,7 @@
 class Connl < Formula
   desc "the client app use to connect the connl server"
   homepage "https://github.com/khajer/bindlocal-client"
-  version "0.0.1"
+  version "0.0.2"
   license "MIT"
 
   on_macos do
