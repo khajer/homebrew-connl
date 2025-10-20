@@ -5,12 +5,12 @@ class Connl < Formula
   license "MIT"
 
   on_macos do
-    url "https://github.com/khajer/bindlocal-client/releases/download/v0.0.1/connl-0.0.1-macos.tar.gz"
-    sha256 "0133595f8d67d457a4c86063385eb0bde4320f95eb67e0d779add5a776ce9b4e"
+    url "https://github.com/khajer/bindlocal-client/releases/download/v0.0.2/connl-0.0.2-macos.tar.gz"
+    sha256 "45f09759edae38904e44f070b20a0decab43f83ec247f04dc8638037dc8fbf5d"
   end
   on_linux do
-    url "https://github.com/khajer/bindlocal-client/releases/download/v0.0.1/connl-0.0.1-linux.tar.gz"
-    sha256 "68fea148e91c8a4b585214f4f3628eca0b24988543da13c1426c4ca7d893cf29"
+    url "https://github.com/khajer/bindlocal-client/releases/download/v0.0.2/connl-0.0.2-linux.tar.gz"
+    sha256 "dfded9c6f21750b4ad9c637a044878c42fae15c78ead48fe18870f77298629ab"
   end
 
 
