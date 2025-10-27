@@ -1,16 +1,16 @@
 class Connl < Formula
   desc "the client app use to connect the connl server"
   homepage "https://github.com/khajer/bindlocal-client"
-  version "0.0.2"
+  version "0.1.0"
   license "MIT"
 
   on_macos do
-    url "https://github.com/khajer/bindlocal-client/releases/download/v0.0.2/connl-0.0.2-macos.tar.gz"
-    sha256 "45f09759edae38904e44f070b20a0decab43f83ec247f04dc8638037dc8fbf5d"
+    url "https://github.com/khajer/bindlocal-client/releases/download/v0.1.0/connl-0.1.0-macos.tar.gz"
+    sha256 "b4481b27bdff1e20597c48961dfcb5eee2dc7b78fc4adc0b979005a86f1c6180"
   end
   on_linux do
-    url "https://github.com/khajer/bindlocal-client/releases/download/v0.0.2/connl-0.0.2-linux.tar.gz"
-    sha256 "dfded9c6f21750b4ad9c637a044878c42fae15c78ead48fe18870f77298629ab"
+    url "https://github.com/khajer/bindlocal-client/releases/download/v0.1.0/connl-0.1.0-linux.tar.gz"
+    sha256 "ac6336e50d2fa4255b40fed7b98e274ede95316c51ab2cbdc239e7e63865a64a"
   end
 
 
